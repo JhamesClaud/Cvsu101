@@ -1,0 +1,85 @@
+
+   .mission{
+    padding: 25px;
+   }
+   .mission h1{
+    text-align: center;
+    color: white;
+   }
+   .mission p{
+    text-align:center;
+    color: white;
+   }
+   .vission{
+        padding: 25px;
+    }
+   .vission h1{
+    text-align:center;
+    color: white;
+   }
+   .vission p{
+    text-align:center;
+    color: white;
+   }
+  .values{
+   color: red;
+  }
+.policy{
+ color: white;
+ padding:20px;
+}
+.hym{
+ text-align: justify-all;
+ color: white;
+ padding:20px;
+ 
+}
+
+body{
+  background-image: url(Logo1.png);
+ 
+  height: 100%;
+  background-position: center;
+ background-position:;
+  background-repeat: no-repeat;
+  background-size: 600px;
+ background-color: green;
+}
+   .login-container {
+    justify-content:center; 
+    padding: 20px,30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+   }
+    .login-container h2 {
+    text-align: center;
+   }
+    .form-group {
+    margin-bottom: 15px;
+   }
+   .form-group label {
+    display: block;
+    margin-bottom: 5px;
+   }
+   .form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid white;
+    border-radius: 4px;
+   }
+   .form-group input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+   }
+   .form-group input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  .error {
+    color: red;
+    font-size: 12px;
+    text-align: center;
+  }
+
+   
